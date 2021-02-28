@@ -1,5 +1,9 @@
 ---
 layout: default
+menu:
+  main:
+    weight: 3
+    title: TEST
 published: false
 
 ---

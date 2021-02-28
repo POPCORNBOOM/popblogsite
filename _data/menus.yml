@@ -1,5 +1,8 @@
 ---
 main:
+- url: https://space.bilibili.com/271218438
+  weight: 2
+  title: BILIBILI
 - identifier: home
   url: "/"
   weight: 1
